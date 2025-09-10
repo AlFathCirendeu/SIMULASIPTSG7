@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="A3E986AF-C8A8-4C87-A368-F372ACA3230B" version="0">
+	<info>
+		<title>PTS SIMULASI</title>
+		<description/>
+	</info>
+	<files index="id22" thumbnail="id18" totalSize="3383742">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/images/img-0701da296165f6c609a5b3b3009eaeef534a3f53.jpg</file>
+		<file id="id12">data/images/img-56af0e2c9da61b08790d457b2955b2e3ec7732cf.png</file>
+		<file id="id13">data/images/img-855f2c51da8ed553a5de51066e97e936ce8b38c4.png</file>
+		<file id="id14">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id15">data/images/img-aea0fc4f9b1ef737c6c952e88b1f45ff43e05458.jpg</file>
+		<file id="id16">data/ismplayer/app_store2x.png</file>
+		<file id="id17">data/ismplayer/play.svg</file>
+		<file id="id18">data/ismplayer/preview.png</file>
+		<file id="id19">data/ismplayer/style.css</file>
+		<file id="id20">data/ismplayer/style_mini.css</file>
+		<file id="id21">data/player.js</file>
+		<file id="id22">index.html</file>
+		<file id="id23">ismplayer.html</file>
+		<file id="id24">preview.png</file>
+	</files>
+</presentation>
+
